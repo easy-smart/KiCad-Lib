@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "#Transformer")(type "KiCad")(uri "${KIPRJMOD}/KiCad-Lib/#Transformer.pretty")(options "")(descr ""))
   (lib (name "#Connector")(type "KiCad")(uri "${KIPRJMOD}/KiCad-Lib/#Connector.pretty")(options "")(descr ""))
+  (lib (name "#IC")(type "KiCad")(uri "${KIPRJMOD}/KiCad-Lib/#IC.pretty")(options "")(descr ""))
 )
