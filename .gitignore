@@ -1,0 +1,7 @@
+/*-backups/*
+fp-info-cache
+/production/*
+*.bak
+*.lck
+/#auto_saved_files#
+/_autosave-*
