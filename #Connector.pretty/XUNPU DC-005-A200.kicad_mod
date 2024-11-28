@@ -1,0 +1,214 @@
+(footprint "XUNPU DC-005-A200"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "DC-IN-TH_DC-005-A200 footprint")
+	(tags "DC-IN-TH_DC-005-A200 footprint C720557")
+	(property "Reference" "REF**"
+		(at -3.499886 -8.825603 0)
+		(layer "F.SilkS")
+		(uuid "a3f51c54-ef62-4160-aa50-455a246e550a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DC-IN-TH_DC-005-A200"
+		(at -3.499886 4.325375 0)
+		(layer "F.Fab")
+		(uuid "77b7f3db-8108-4fad-b4e9-c9a817a69e04")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dee72183-21fa-47d4-ab17-90a5bf90fc24")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b00fb38f-6215-4d81-af73-4583c1a08580")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b0b78be2-2859-44d9-9cd3-cbfb00e4ed51")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -10.499873 -6.825603)
+		(end 3.500102 -6.825603)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71cb1fb0-74a8-4c57-b94f-20f07c0bd2ba")
+	)
+	(fp_line
+		(start -10.499873 2.174422)
+		(end -10.499873 -6.825603)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a470a8ff-4492-478a-baf5-802f711dcb9c")
+	)
+	(fp_line
+		(start -7.199898 2.174422)
+		(end -7.199898 -6.825603)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "885d8a65-9cdb-463f-b2dd-9cf4eace441f")
+	)
+	(fp_line
+		(start -7.119914 -5.525349)
+		(end 3.500102 -5.525349)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ce6c510b-766d-4ffa-81f6-d92c366390af")
+	)
+	(fp_line
+		(start -7.119914 0.874397)
+		(end 3.500102 0.874397)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2070e31-4c88-4403-a307-33e286ca92dc")
+	)
+	(fp_line
+		(start -1.419329 2.174422)
+		(end -10.499873 2.174422)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f99120f-608e-40b5-87e7-f9fcb2ceee52")
+	)
+	(fp_line
+		(start 3.500102 -6.825603)
+		(end 3.500102 -4.318872)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "74c656bf-4e1a-4c70-80c5-ba4333ae8f90")
+	)
+	(fp_line
+		(start 3.500102 -0.332106)
+		(end 3.500102 2.174422)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f492911-ea7b-449c-9b2b-7c67ea94b0c4")
+	)
+	(fp_line
+		(start 3.500102 2.174422)
+		(end 2.419558 2.174422)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "36c2738c-3218-4253-b19d-0cf698b3fdf0")
+	)
+	(fp_circle
+		(center 3.499873 -6.952502)
+		(end 3.529845 -6.952502)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "5076bfeb-34ce-4e50-9292-c0c761096bf7")
+	)
+	(fp_text user "REF**"
+		(at -3.499886 6.325375 0)
+		(layer "F.Fab")
+		(uuid "d12fed11-b045-4345-979f-abb75b94799e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 3.000127 -2.325375)
+		(size 1.5 3.8)
+		(drill oval 0.900025 3.100178)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9ea38e9e-5255-4fb8-928b-12c12c84410c")
+	)
+	(pad "2" thru_hole oval
+		(at -3.000127 -2.325375 180)
+		(size 1.5 3.8)
+		(drill oval 0.900025 3.100178)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fb189afb-a130-45c8-b400-869edf6f5e9c")
+	)
+	(pad "3" thru_hole oval
+		(at 0.5 2.325375 270)
+		(size 1.5 3.4)
+		(drill oval 0.900025 2.599797)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2cb74085-4bfa-49b6-a166-c106a18af2ea")
+	)
+	(model "${KIPRJMOD}/KiCad-Lib/#Connector.3dshapes/XUNPU DC-005-A200.step"
+		(offset
+			(xyz -3.5 2.25 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
